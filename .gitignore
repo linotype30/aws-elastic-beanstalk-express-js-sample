@@ -171,4 +171,7 @@ tags
 # Ignore all local history of files
 .history
 
+### IntelliJ
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,visualstudiocode,vim
